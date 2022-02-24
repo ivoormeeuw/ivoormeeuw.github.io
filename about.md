@@ -1,13 +1,8 @@
 ---
 layout: page
-title: About
+title: Welcome Biohackers!
 permalink: /about/
 ---
-
-This is the BioHack Academy documentation site of Maarten. I can use this to tell something about myself or my projects or whatever. 
-
-
-<h2>Welcome Biohackers!</h2>
 
 <p>In BioHack Academy you design, build and use your own biolab. Each edition connects several groups around the world passionate about biotech and hacking. </p>
 
