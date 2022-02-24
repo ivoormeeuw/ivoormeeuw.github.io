@@ -9,13 +9,20 @@ This is the BioHack Academy documentation site of Maarten. I can use this to tel
 
 <h2>Welcome Biohackers!</h2>
 
-<p>In BioHack Academy you design, build, use and share your own biolab. Each edition connects several groups around the world passionate about biotech and hacking. </p>
+<p>In BioHack Academy you design, build and use your own biolab. Each edition connects several groups around the world passionate about biotech and hacking. </p>
 
 <p> This is the central Syllabus of the BioHack Academy. </p>
 
 <h2> Syllabus Navigation</h2>
 <ul>
-  <li><a href="/bha6/classes/">Classes</a>, for lecture PDFs and videos, information on the BHA devices, practicals and other links </li>
+  	Schedule
+	Labs
+	Students
+	Presentations
+	Information
+	Prior years
+	
+	<li><a href="/bha6/classes/">Classes</a>, for lecture PDFs and videos, information on the BHA devices, practicals and other links </li>
 	<li><a href="/bha6/participants/">Participants</a>, links to the personal pages of participants </li>
 	<li><a href="/bha6/organisms/">Organisms</a>, a list of organisms used in the BHA </li>
 	<li><a href="/bha6/cultivation-media/">Cultivation media</a>, a list of cultivation media </li>
