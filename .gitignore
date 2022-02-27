@@ -9,3 +9,4 @@ node_modules
 package.json
 .jekyll-cache
 .DS_Store
+images/.DS_Store
